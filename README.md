@@ -1,11 +1,9 @@
 ### README en Français
 <div id="readme-top-fr"></div>
-<p align="right"><a href="#readme-top-eng">README in English</a></p>
-
 <!-- LOGO DU PROJET -->
 <br />
 <div align="center">
-<img src="public/pizza-menu.gif" alt="Logo" width="120" height="80">
+<img src="public/pizza-menu.gif" alt="Logo" width="460" height="200">
 
 <h3 align="center">Welcome to React Projet Pizza Menu 🧑‍🍳</h3>
 
